@@ -30,7 +30,7 @@ body {
           box-shadow: 0px 5px 20px 4px #444; }
 
 .header {
-  background-image: url("/res/1-1.jpg");
+  background-image: url("../res/1-1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 0 -50px;
