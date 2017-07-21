@@ -39,7 +39,7 @@ body {
       width: 70%; } }
 
 .header {
-  background-image: url("/res/lamb.jpg");
+  background-image: url("../res/lamb.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   border-top-left-radius: 20px;
